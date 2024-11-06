@@ -1,7 +1,7 @@
 # spelling.yml is blocked per https://github.com/check-spelling/check-spelling/security/advisories/GHSA-g86g-chm8-7r2p
 # spelling2.yml is blocked per https://github.com/check-spelling/check-spelling/security/advisories/GHSA-p8r9-69g4-jwqq
 
-name: Check Spelling
+name:#4932
 
 # Comment management is handled through a secondary job, for details see:
 # https://github.com/check-spelling/check-spelling/wiki/Feature%3A-Restricted-Permissions
